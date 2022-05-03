@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Smart Bulletin Board</string>
+
+    <!--   Menu Drawer Strings   -->
+    <string name="ad_category_products">Advertisement</string>
+    <string name="ad_my_ads">My Advertisements</string>
+    <string name="ad_pc">Computers</string>
+    <string name="ad_car">Cars</string>
+    <string name="ad_smartphone">Smartphones</string>
+    <string name="ad_ha">Household Appliances</string>
+    <string name="ad_category_acc">My Account</string>
+    <string name="ac_sign_in">Sign In</string>
+    <string name="ac_sign_up">Sign Up</string>
+    <string name="ac_sign_out">Sign Out</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
 </resources>
